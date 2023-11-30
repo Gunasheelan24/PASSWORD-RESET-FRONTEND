@@ -1,0 +1,35 @@
+.color-change { 
+    background-color: #02040F;
+    padding: 20px !important;
+}
+
+.black-color { 
+    background-color: #6987C9;
+}
+
+.color-cover {
+  background-color: #2C0E37;
+  height: 100vh !important;
+}
+
+.para-id { 
+    color: wheat;
+}
+
+#ll { 
+    color: #02040F;
+}
+
+.message  {
+    color: wheat;
+    text-transform:uppercase;
+    margin-top: -8px;
+    margin-bottom: -8px;
+}
+
+.message-point { 
+    color: wheat;
+    margin-top: -1px;
+    margin-bottom: -7px;
+    text-transform: uppercase;
+}

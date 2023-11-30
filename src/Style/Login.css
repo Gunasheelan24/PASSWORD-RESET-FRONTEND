@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.id-gen { 
+    width: 420px !important;
+}
+#bg-color {
+    height: 100vh;
+}
+
+#text-signin { 
+    font-family: 'Poppins',sans-serif;
+}
+.text-para { 
+    color: wheat;
+    text-transform: uppercase;
+    margin-top: -3px;
+    margin-bottom: -4px;
+}
